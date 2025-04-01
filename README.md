@@ -1,7 +1,14 @@
 # Car-Detection-
-Car Detection using YOLO with Non-Max Suppression (NMS) &amp; IoU
-A TensorFlow/Keras implementation of YOLO (You Only Look Once) for object detection, featuring:
-✅ Non-Max Suppression (NMS) to eliminate duplicate detections
-✅ Intersection over Union (IoU) for bounding box evaluation
-✅ Pre-trained YOLO model (supports COCO classes)
-✅ Visualization of detected objects with labels & confidence scores
+A clean implementation of YOLO (You Only Look Once) for object detection with:
+- **Non-Max Suppression (NMS)**
+- **Intersection over Union (IoU)**
+- **Bounding box visualization**
+
+![YOLO Detection Example](demo.jpg) 
+
+## Features ✨
+- ✅ Pre-trained YOLO model (COCO dataset)
+- ✅ Efficient NMS implementation
+- ✅ IoU calculation for box overlap
+- ✅ Real-time detection capable
+- ✅ Clean, modular code structure
