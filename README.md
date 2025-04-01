@@ -1,4 +1,4 @@
-# Car-Detection-
+# Car-Detection
 A clean implementation of YOLO (You Only Look Once) for object detection with:
 - **Non-Max Suppression (NMS)**
 - **Intersection over Union (IoU)**
