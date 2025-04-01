@@ -3,7 +3,7 @@ A clean implementation of YOLO (You Only Look Once) for object detection with:
 - **Non-Max Suppression (NMS)**
 - **Intersection over Union (IoU)**
 - **Bounding box visualization**
-![YOLO Detection Example](demo.jpg)
+- ![YOLO Detection Example](demo.jpg)
 
 
 ## Features ✨
@@ -21,7 +21,8 @@ The model uses coco_classes.txt, which includes:
 - 🐱 Animals: Cat, Dog, Bird, Horse
 - 👫 People: Person
 - 🪑 Common Objects: Chair, Sofa, Bottle, Laptop
-- ## Usage 🖥️
+## How to use
+- place "coco_classes.txt, yolo_anchors.txt and yolo.h5" files in to model_data/ folder (you have to download these files)
 - Place test images in images/ folder
 - Run 
 - Results saved in out/ folder
